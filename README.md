@@ -56,4 +56,4 @@ Each measured run sorts one fresh copy. Caller-specified warm-up and measurement
 
 ## Provenance
 
-Original coursework: CPT204, Team 154. The original submission archive and presentation are retained locally. This repository preserves the supplied algorithms and UI while standardizing the layout, launchers, validation, and benchmark setup.
+Developed as part of the CPT204 Team 154 coursework project. This repository retains the coursework algorithms and UI, with a standardized project layout, build and launch scripts, regression checks, and benchmark setup.
